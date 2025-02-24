@@ -1,1 +1,6 @@
 tunajaribu kutest pull and push
+
+Steps:
+
+https://start.spring.io/
+
