@@ -4,3 +4,5 @@ Steps:
 
 https://start.spring.io/
 
+how spring boot works
+browser ---> user controller ---> service---->repository---->mysqldatabase
